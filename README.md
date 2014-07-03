@@ -1,6 +1,10 @@
 # ControllerSpecificAssets
 
-TODO: Write a gem description
+**Work in progress. Do not use!**
+
+Controller Specific Assets does what it says on the tin: Only loads your controller assets (e.g. `products.css`, `products.js`) into views rendered by the controller with the matching name (i.e. `products_controller.rb` in this case).
+
+An article on the topic can be found here: [Controller Specific Assets With Rails 4](http://theflyingdeveloper.com/controller-specific-assets-with-rails-4/)
 
 ## Installation
 
